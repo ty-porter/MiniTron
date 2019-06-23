@@ -2,6 +2,7 @@
 
 MiniTron is a miniature jumbotron interface built for Raspberry Pi 3-compatible LED displays. It pulls data from a custom API using a web sraper to scrape game data from [Baseball-Reference](https://baseball-reference.com). Data displayed is currently the teams and scores plus wins/losses/saves for pitchers.
 
+![MiniTron](https://i.imgur.com/ILwXLek.jpg)
 
 ## Required Hardware
 
